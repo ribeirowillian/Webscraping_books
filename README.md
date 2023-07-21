@@ -1,14 +1,29 @@
 # Web Scraping
 
 [![NPM](https://img.shields.io/npm/l/react)](https://github.com/will-rds/Webscraping_books/blob/main/LICENSE)
-O objetivo desta análise é realizar coleta e organização de dados por meio de web scraping.
 
-A proposta do projeto pode ser encontrada neste link: http://bit.ly/3Q64W7m
+# Sobre o projeto
 
+O objetivo desta análise é realizar coleta e organização de dados por meio de web scraping de e-commerce de livros.
 A ideia consiste em extrair informações específicas dos livros, incluindo o título, categoria, avaliação em estrelas, preço e disponibilidade em estoque.
 
-Foi realizada a limpeza dos dados utilizando a biblioteca pandas e posteriomente os dados foram submetidos a um banco de dados postgres.
+Site utilizado no web scraping: http://books.toscrape.com
 
-Todos os detalhes podem ser encontrados dentro do projeto. 
+![books]
 
-Obrigado. 
+Mais detalhes sobre a proposta podem ser encontradas no link: http://bit.ly/3Q64W7m
+
+# Execução
+
+Foi realizada a coleta, limpeza e inserção dos dados em um banco de dados.
+
+# Tecnolonogias utilizadas
+## Linguagem
+- Python
+- SQL
+## Ferramentas
+- Jupyter notebook
+- Postgres
+
+
+
