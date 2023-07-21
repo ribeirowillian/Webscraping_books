@@ -1,6 +1,6 @@
 # Web Scraping
 
-![Static Badge](https://img.shields.io/badge/:badgeContent)(https://github.com/will-rds/Webscraping_books/blob/main/LICENSE)
+![Static Badge](https://img.shields.io/badge/:badgeContent).(https://github.com/will-rds/Webscraping_books/blob/main/LICENSE)
 O objetivo desta análise é realizar coleta e organização de dados por meio de web scraping.
 
 A proposta do projeto pode ser encontrada neste link: http://bit.ly/3Q64W7m
