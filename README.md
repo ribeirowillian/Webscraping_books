@@ -17,7 +17,7 @@ Mais detalhes sobre a proposta podem ser encontradas no link: http://bit.ly/3Q64
 Foi realizada a coleta, limpeza e inserção dos dados em um banco de dados.
 
 ## Resultado no banco de dados
-![banco] (https://github.com/will-rds/Webscraping_books/blob/main/imagens/bancodedados.PNG)
+![banco](https://github.com/will-rds/Webscraping_books/blob/main/imagens/bancodedados.PNG)
 
 # Tecnolonogias utilizadas
 ## Linguagem
