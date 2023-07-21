@@ -28,7 +28,6 @@ Foi realizada a coleta, limpeza e inserção dos dados em um banco de dados.
 Mais detalhes sobre a proposta podem ser encontradas no link: http://bit.ly/3Q64W7m
 
 ### Autor
-
 Willian Ribeiro dos Santos
 
 https://www.linkedin.com/in/willian-ribeiro-7b02b7141/
