@@ -30,5 +30,5 @@ Mais detalhes sobre a proposta podem ser encontradas no link: http://bit.ly/3Q64
 ### Autor
 Willian Ribeiro dos Santos
 
-https://www.linkedin.com/in/willian-ribeiro-7b02b7141/
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/willian-ribeiro-7b02b7141/) 
 
