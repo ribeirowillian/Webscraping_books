@@ -12,7 +12,10 @@ Site utilizado no web scraping: http://books.toscrape.com
 
 # Execução
 
+Todos os passos da execução podem ser encontrados ![aqui](https://github.com/ribeirowillian/Webscraping_books/blob/main/webscraping_livros.ipynb).
+
 Foi realizada a coleta, limpeza e inserção dos dados em um banco de dados.
+
 
 ## Resultado no banco de dados
 ![banco](https://github.com/will-rds/Webscraping_books/blob/main/imagens/bancodedados.PNG)
